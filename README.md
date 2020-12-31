@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Daniel
 #### Database Administrator and Full Stack Developer
-![Database Administrator and Full Stack Developer](https://www.bouge.es/wp-content/uploads/2019/04/computer-program-coding-on-screen-PQ79JTA-1200x565.jpg)
+![Database Administrator and Full Stack Developer]
 
 In continuous learning of new technologies.
 
