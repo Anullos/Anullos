@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Daniel
 #### Database Administrator and Full Stack Developer
-![Database Administrator and Full Stack Developer]
 
 In continuous learning of new technologies.
 
