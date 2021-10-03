@@ -6,7 +6,7 @@ In continuous learning of new technologies.
 Skills: Java / Dart / Js / Html / Sass / Nodejs 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Sass and React 
+- 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me: info@anullos.es 
 
 
